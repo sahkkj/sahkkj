@@ -1,4 +1,4 @@
-- 👋 olá meu nome é sara
+- 👋 olá meu nome é sahkkj
 - :+1: meu email de contato é sara.medeiro.silva@escola.pr.gov.br
 - 👀 eu estou interressado em aprender a programar novas linguagens
 - 🌱 eu estou aprendendo a programar recentemente a linguagem do javascript e scratch
